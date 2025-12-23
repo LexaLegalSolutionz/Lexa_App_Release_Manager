@@ -1,6 +1,5 @@
 {
-  "latestVersionCode": 1,
-  "latestVersionName": "1.0.1",
+  "version":"1.0.1",
   "apkUrl": "",
   "changelog": "• Performance improvements\n• Bug fixes"
 }
