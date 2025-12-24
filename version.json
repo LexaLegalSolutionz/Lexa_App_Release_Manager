@@ -1,5 +1,5 @@
 {
   "version":"1.0.1",
   "apkUrl": "https://github.com/LexaLegalSolutionz/Lexa_App_Release_Manager/releases/download/latest/lexa.apk",
-  "changelog": "• Added new page for listing interested requests with status"
+  "changelog": "• Added new section for listing interested requests with status on representation requests page"
 }
