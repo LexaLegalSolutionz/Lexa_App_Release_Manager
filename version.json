@@ -1,5 +1,5 @@
 {
   "version":"1.0.3",
   "apkUrl": "https://github.com/LexaLegalSolutionz/Lexa_App_Release_Manager/releases/download/latest/lexa.apk",
-  "changelog": "• Added Attendance Notification Module"
+  "changelog": "•Fixed bottom nav issue, Implementaion of default value to date and time, Added listing of notification"
 }
