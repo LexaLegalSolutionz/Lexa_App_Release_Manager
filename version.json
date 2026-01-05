@@ -1,5 +1,6 @@
 {
-  "version":"1.0.5",
+  "version":"1.0.6",
   "apkUrl": "https://github.com/LexaLegalSolutionz/Lexa_App_Release_Manager/releases/download/latest/lexa.apk",
-  "changelog": "•Re-worked RR module upto EOI "
+  "changelog": "• Re-worked RR module up to EOI\n• Redesigned Client Dashboard with auto-refresh for Recent Cases & Reminders\n• Introduced v1 Lawyer Section and updated Lawyer Dashboard\n• Redesigned Case Detail View\n• Improved AI Chat page UI\n• Minor frontend redesigns and conflict resolutions"
+
 }
