@@ -1,7 +1,7 @@
 {
-  "version":"1.0.7",
+  "version":"1.0.8",
   "apkUrl": "https://github.com/LexaLegalSolutionz/Lexa_App_Release_Manager/releases/download/latest/lexa.apk",
- "changelog": "• Patch: Representation Request and Expression of Interest modules completed"
+ "changelog": "• Fully reworked core architecture & Major system-wide improvements"
 
 
 }
