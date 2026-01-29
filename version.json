@@ -1,7 +1,7 @@
 {
-  "version":"1.0.9",
+  "version":"1.0.10",
   "apkUrl": "https://github.com/LexaLegalSolutionz/Lexa_App_Release_Manager/releases/download/latest/lexa.apk",
- "changelog": "• Updated to new server url "
+ "changelog": "• Fixes server ip issue with elastic ip address  "
 
 
 }
