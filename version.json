@@ -1,7 +1,7 @@
 {
-  "version":"1.0.29",
+  "version":"1.0.30",
   "apkUrl": "https://github.com/LexaLegalSolutionz/Lexa_App_Release_Manager/releases/download/latest/lexa.apk",
- "changelog": "Updated UI UX"
+ "changelog": "Feature: Integrated Ecourts with public case search"
 
 
 }
