@@ -1,5 +1,5 @@
 {
-  "version":"2.0.0",
+  "version":"5.0.0",
   "apkUrl": "https://github.com/LexaLegalSolutionz/Lexa_App_Release_Manager/releases/download/latest/lexa.apk",
  "changelog": "Feature: Integrated Ecourts with public case search"
 
